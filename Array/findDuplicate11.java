@@ -27,5 +27,6 @@ public class findDuplicate11 {
         System.out.println("Array");
         printArray(arr, n);
         findDuplicate(arr);
+        input.close();
     }
 }
